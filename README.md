@@ -1,1 +1,1 @@
-# spiralbot
+# discord-bot
